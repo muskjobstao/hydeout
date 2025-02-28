@@ -3,7 +3,7 @@ layout: post
 title: "基于通识人工智能的就业培训计划（适用于中职毕业生）"
 date: 2025-02-28
 categories:
-  - Post
+  - post
 last_modified_at: 2017-03-09T12:45:25-05:00
 ---
 ## **第1-3天：人工智能基础**
